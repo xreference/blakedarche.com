@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xreference.github.io/blakedarche.com/sitemap.xml
